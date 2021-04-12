@@ -1,4 +1,4 @@
-### Hi there, I'm [Elvis!](https://cheepion.github.io) 👋
+### Hi there, I'm [Elvis!](https://cheepion.github.io) 
 
 
 - 🔭 I’m currently working on [serviceone](http://www.sogservice.com.cn/)
@@ -16,6 +16,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheepion&repo=isnan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheepion&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-- ::star:2 React React-Native <img alt="isNaN" src="https://raster.shields.io/badge/project-processing-brightgreen+-blue.svg">
-
+### skill
+---
+<img alt="React Native" src="https://img.shields.io/badge/RN-used-blue+-blue.svg">
+- GatsbyJS ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <img alt="NPM" src="https://raster.shields.io/badge/Maven-3.1+-red.svg">
