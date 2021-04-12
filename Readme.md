@@ -18,11 +18,9 @@
 
 <div>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=cheepion&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=f2f2f2&title_color=ea5e00&text_color=666&icon_color=00d200" >
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheepion&layout=compact&show_icons=true&theme=buefy)
+  <img src="https://github-readme-stats.vercel.app/api?username=cheepion&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=fff&title_color=ea5e00&text_color=9c9c9c&icon_color=e3e3e3" >
 </a>
- 
 </div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheepion&layout=compact&show_icons=true&theme=buefy)
 
 
