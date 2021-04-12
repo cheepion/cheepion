@@ -1,4 +1,4 @@
-### Hi there, I'm [Elvis!](https://cheepion.github.io) 
+### Hi, I'm [Elvis!](https://cheepion.github.io) 
 
 
 - 🔭 I’m currently working on [serviceone](http://www.sogservice.com.cn/)
