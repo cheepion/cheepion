@@ -18,6 +18,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheepion&repo=isnan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cheepion&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheepion&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
