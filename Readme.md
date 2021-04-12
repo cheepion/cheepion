@@ -16,9 +16,14 @@
 - most commonly used <img alt="React Native" src="https://img.shields.io/badge/RN-used-blue.svg">
 - currently use GatsbyJS writing my blog <img alt="GatsbyJS" src="https://img.shields.io/badge/GatsbyJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen.svg">
 
+<div>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bas950&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
+</a>
+</div>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheepion&repo=isnan)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cheepion&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheepion&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
