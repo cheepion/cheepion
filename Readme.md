@@ -2,3 +2,5 @@
 
 https://img.shields.io/static/v1?style=social&logo=appveyor
 /appveyor/build/:user/:repo
+
+https://img.shields.io/badge/left-right-f39f37
