@@ -12,3 +12,5 @@ https://img.shields.io/badge/left-right-f39f37
 
 
 ![maven](https://img.shields.io/badge/project-processing-brightgreen+-blue.svg)(https://redis.io/)
+
+<img alt="NPM" src="https://raster.shields.io/badge/Maven-3.1+-red.svg">
