@@ -22,6 +22,6 @@
       
   
 </a>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api?username=cheepion&cache_seconds=1800&layout=compact&theme=buefy" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheepion&cache_seconds=1800&layout=compact&theme=buefy" />
 </div>
 
