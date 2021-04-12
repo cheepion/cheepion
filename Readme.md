@@ -18,12 +18,15 @@
 
 <div>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bas950&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheepion&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
 </a>
 </div>
+<div>
+  <a></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=cheepion&repo=isnan</a>
+</div>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheepion&repo=isnan)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheepion&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheepion&repo=isnan)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheepion&layout=compact&show_icons=true&theme=buefy)]
 
 
