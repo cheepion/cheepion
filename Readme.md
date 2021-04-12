@@ -20,4 +20,6 @@
 ---
 <img alt="React Native" src="https://img.shields.io/badge/RN-used-blue+-blue.svg">
 - GatsbyJS ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+
+- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <img alt="NPM" src="https://raster.shields.io/badge/Maven-3.1+-red.svg">
