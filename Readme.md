@@ -18,11 +18,9 @@
 
 <div>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=cheepion&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=f3f3f3&title_color=ea5e00&text_color=9c9c9c&icon_color=e3e3e3" >
-      <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nathanchu&cache_seconds=1800&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cheepion&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=f3f3f3&title_color=ea5e00&text_color=9c9c9c&icon_color=e3e3e3" />
+  <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=cheepion&cache_seconds=1800&layout=compact&theme=buefy" />
 </a>
-  
 </div>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheepion&layout=compact&show_icons=true&theme=buefy)
 
 
