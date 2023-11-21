@@ -2,9 +2,8 @@
 
 
 - 🔭 I’m currently working on [serviceone](http://www.sogservice.com.cn/)
-<!--- 🌱 I’m currently learning Typescript -->
 - 💬 Ask me about anything [here](https://github.com/cheepion/cheepion/issues)
-
+<!--- 🌱 I’m currently learning Typescript -->
 **Languages and Tools:**  
 ---
 
